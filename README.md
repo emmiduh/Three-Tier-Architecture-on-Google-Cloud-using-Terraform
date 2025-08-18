@@ -79,7 +79,7 @@ Each **layer** is isolated into a subdirectory, and uses a separate Terraform st
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-org>/three-tier-terraform-gcp.git
+   git clone https://github.com/emmiduh/three-tier-terraform-gcp.git
    cd three-tier-terraform-gcp
    ```
 
